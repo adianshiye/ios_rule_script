@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-07-21 02:07:18
-# DOMAIN: 20732
+# UPDATED: 2021-07-22 02:06:36
+# DOMAIN: 20731
 # DOMAIN-KEYWORD: 88
 # DOMAIN-SUFFIX: 51178
 # IP-CIDR: 241
 # IP-CIDR6: 1
-# TOTAL: 72240
+# TOTAL: 72239
 payload:
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0.up.qingdaonews.com
@@ -4399,6 +4399,7 @@ payload:
   - DOMAIN,bundstrategy.com
   - DOMAIN,bungalow63.net
   - DOMAIN,bungalowrenovations.com
+  - DOMAIN,buntymendke.com
   - DOMAIN,burger-imperia.com
   - DOMAIN,burnettfarms.com
   - DOMAIN,burnshare.net
@@ -9140,6 +9141,7 @@ payload:
   - DOMAIN,goodphpprogrammer.com
   - DOMAIN,googcapital.com
   - DOMAIN,google-analitics.com
+  - DOMAIN,google-analyze.cn
   - DOMAIN,google-docs.org
   - DOMAIN,google-pagerank.net
   - DOMAIN,google.tucows.com
@@ -10909,7 +10911,6 @@ payload:
   - DOMAIN,justinterracialsex.com
   - DOMAIN,justintimetac.com
   - DOMAIN,justlookapp.com
-  - DOMAIN,justredirect25.com
   - DOMAIN,justsayingbro.com
   - DOMAIN,justteenmovie.com
   - DOMAIN,justtrck.com
@@ -12337,6 +12338,7 @@ payload:
   - DOMAIN,metalboxer.com
   - DOMAIN,metamask.com
   - DOMAIN,metanetwork.com
+  - DOMAIN,metanetwork.net
   - DOMAIN,metaresolver.com
   - DOMAIN,metaswitchweightloss.com
   - DOMAIN,metcoc5cm.clarent.com
@@ -13542,6 +13544,7 @@ payload:
   - DOMAIN,officemember.tripod.com
   - DOMAIN,officeon.ch.ma
   - DOMAIN,officescripts.com
+  - DOMAIN,officialrdr.com
   - DOMAIN,offpageads.com
   - DOMAIN,oficina10.com
   - DOMAIN,ofirjzamaye.com
@@ -13744,7 +13747,6 @@ payload:
   - DOMAIN,oracles-network.org
   - DOMAIN,orange-kodzik.890m.com
   - DOMAIN,orange.npix.net
-  - DOMAIN,orange.recompenses.xyz
   - DOMAIN,orange181.godaddysites.com
   - DOMAIN,orangeerp.com
   - DOMAIN,orango.redirectme.net
@@ -16212,7 +16214,6 @@ payload:
   - DOMAIN,shalseey.com
   - DOMAIN,shanafishbein.com
   - DOMAIN,shanescomics.com
-  - DOMAIN,shangmiss.wap.xsbiquge.com
   - DOMAIN,shannondensmore.com
   - DOMAIN,shannonvalenteweddings.com
   - DOMAIN,shapado.com
@@ -17731,6 +17732,7 @@ payload:
   - DOMAIN,telus.inq.com
   - DOMAIN,telus.touchcommerce.com
   - DOMAIN,telusmobility.inq.com
+  - DOMAIN,telusurnews.com
   - DOMAIN,temelio.com
   - DOMAIN,temizliyorum.com
   - DOMAIN,temovkozmetika.com
@@ -19125,7 +19127,6 @@ payload:
   - DOMAIN,ventite.com
   - DOMAIN,venudre.000webhostapp.com
   - DOMAIN,venusparkridge.com
-  - DOMAIN,vephaohoadanang.net
   - DOMAIN,veraisonwineevents.com
   - DOMAIN,verblife-3.co
   - DOMAIN,verfiedaccountsonline.org
@@ -19482,7 +19483,6 @@ payload:
   - DOMAIN,watchfree.flv.in
   - DOMAIN,watchingmovie21.com
   - DOMAIN,watchmovieonlinefull.com
-  - DOMAIN,watchmovies.just4umedia.com
   - DOMAIN,watchrugbystream.com
   - DOMAIN,watchthesenow.com
   - DOMAIN,waterandleaves.com
@@ -19974,6 +19974,7 @@ payload:
   - DOMAIN,www.nuvon.com
   - DOMAIN,www.obyz.de
   - DOMAIN,www.offerent.com
+  - DOMAIN,www.officialrdr.com
   - DOMAIN,www.ohiomm.com
   - DOMAIN,www.oiluk.net
   - DOMAIN,www.ostsee-schnack.de
@@ -20168,7 +20169,6 @@ payload:
   - DOMAIN,wwwbigfoot.com
   - DOMAIN,wwwbluelight.com
   - DOMAIN,wwwbudget.com
-  - DOMAIN,wwwcallwave.com
   - DOMAIN,wwwcdnow.com
   - DOMAIN,wwwcnnnews.com
   - DOMAIN,wwwdollar.com
@@ -20556,7 +20556,6 @@ payload:
   - DOMAIN,z.dwchaha.com
   - DOMAIN,z1.adserver.com
   - DOMAIN,z33y.notifychheck.com
-  - DOMAIN,z4yp9a.qygs08.cn
   - DOMAIN,za-music.mymobiplanet.com
   - DOMAIN,za.zeroredirect1.com
   - DOMAIN,za2.zeroredirect8.com

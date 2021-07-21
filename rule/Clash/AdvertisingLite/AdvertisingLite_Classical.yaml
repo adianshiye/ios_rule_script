@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-07-21 02:07:18
-# DOMAIN: 14518
+# UPDATED: 2021-07-22 02:06:36
+# DOMAIN: 14519
 # DOMAIN-KEYWORD: 28
 # DOMAIN-SUFFIX: 12709
 # IP-CIDR: 158
 # IP-CIDR6: 1
-# TOTAL: 27414
+# TOTAL: 27415
 payload:
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,00-gov.cn
@@ -1059,7 +1059,6 @@ payload:
   - DOMAIN,adjector.com
   - DOMAIN,adjesty.com
   - DOMAIN,adjug.com
-  - DOMAIN,adjuggler.com
   - DOMAIN,adjuggler.net
   - DOMAIN,adjungle.com
   - DOMAIN,adjunky.com
@@ -7625,6 +7624,7 @@ payload:
   - DOMAIN,livewebstats.dk
   - DOMAIN,livexxx.me
   - DOMAIN,liwhetsu.com
+  - DOMAIN,lixincxy.cn
   - DOMAIN,lizads.com
   - DOMAIN,lizardslaugh.com
   - DOMAIN,lkme.cc
@@ -7825,13 +7825,11 @@ payload:
   - DOMAIN,m.20mao.com
   - DOMAIN,m.2l06k.cn
   - DOMAIN,m.5vst8h.cn
-  - DOMAIN,m.6z1gf.cn
   - DOMAIN,m.89kvh.cn
   - DOMAIN,m.8of9hd.cn
   - DOMAIN,m.8t5xo.cn
   - DOMAIN,m.91heima.cn
   - DOMAIN,m.967nd.cn
-  - DOMAIN,m.97tuk.cn
   - DOMAIN,m.aangc.com
   - DOMAIN,m.achuc.com
   - DOMAIN,m.ailix.cn
@@ -9173,6 +9171,7 @@ payload:
   - DOMAIN,optiker-michelmann.de
   - DOMAIN,optimahub.com
   - DOMAIN,optimatic.com
+  - DOMAIN,optimierung-der-website.de
   - DOMAIN,optimization-methods.com
   - DOMAIN,optimizely.appspot.com
   - DOMAIN,optimizesocial.com
@@ -11196,7 +11195,6 @@ payload:
   - DOMAIN,shalleda.com
   - DOMAIN,shalseey.com
   - DOMAIN,shangjiabiao.com
-  - DOMAIN,shangmiss.wap.xsbiquge.com
   - DOMAIN,share-server.com
   - DOMAIN,share.gree.jp
   - DOMAIN,share.itraffic.su
@@ -12711,6 +12709,7 @@ payload:
   - DOMAIN,treasuredata.com
   - DOMAIN,trebleperfect.com
   - DOMAIN,tredirect.com
+  - DOMAIN,trekmedia.net
   - DOMAIN,trendcounter.com
   - DOMAIN,trendcounter.de
   - DOMAIN,trendemon.com
@@ -13955,6 +13954,7 @@ payload:
   - DOMAIN,www.nuvon.com
   - DOMAIN,www.obyz.de
   - DOMAIN,www.offerent.com
+  - DOMAIN,www.officialrdr.com
   - DOMAIN,www.ohiomm.com
   - DOMAIN,www.oiluk.net
   - DOMAIN,www.ostsee-schnack.de
@@ -14160,6 +14160,7 @@ payload:
   - DOMAIN,xpx7heciz9.com
   - DOMAIN,xpywzbxjwbxafv.com
   - DOMAIN,xpyyrkwpcpwf.com
+  - DOMAIN,xqbervetkiq.com
   - DOMAIN,xref.io
   - DOMAIN,xs.mochiads.com
   - DOMAIN,xsapp.cdn.bcebos.com

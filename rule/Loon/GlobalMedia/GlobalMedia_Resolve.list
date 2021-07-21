@@ -1,14 +1,15 @@
 # NAME: GlobalMedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-07-20 02:07:13
-# DOMAIN: 39
+# UPDATED: 2021-07-22 02:06:36
+# DOMAIN: 41
 # USER-AGENT: 65
 # DOMAIN-SUFFIX: 220
 # DOMAIN-KEYWORD: 22
 # IP-CIDR: 858
-# TOTAL: 1204
+# TOTAL: 1206
 DOMAIN,api.okzy.tv
+DOMAIN,apm-misaka.biliapi.net
 DOMAIN,apple.comscoreresearch.com
 DOMAIN,atv-ps.amazon.com
 DOMAIN,avodmp4s3ww-a.akamaihd.net
@@ -41,6 +42,7 @@ DOMAIN,news-client.apple.com
 DOMAIN,news-edge.apple.com
 DOMAIN,news-events.apple.com
 DOMAIN,np-edge.itunes.apple.com
+DOMAIN,p.bstarstatic.com
 DOMAIN,play-edge.itunes.apple.com
 DOMAIN,players.brightcove.net
 DOMAIN,rpg.pic-imges.com

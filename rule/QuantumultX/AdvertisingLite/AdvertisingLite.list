@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-07-21 02:07:17
-# HOST: 14518
+# UPDATED: 2021-07-22 02:06:35
+# HOST: 14519
 # HOST-KEYWORD: 28
 # HOST-SUFFIX: 12709
 # IP-CIDR: 158
 # IP6-CIDR: 1
-# TOTAL: 27414
+# TOTAL: 27415
 HOST,0.up.qingdaonews.com,AdvertisingLite
 HOST,00-gov.cn,AdvertisingLite
 HOST,0024aadd.com,AdvertisingLite
@@ -1058,7 +1058,6 @@ HOST,adjal.com,AdvertisingLite
 HOST,adjector.com,AdvertisingLite
 HOST,adjesty.com,AdvertisingLite
 HOST,adjug.com,AdvertisingLite
-HOST,adjuggler.com,AdvertisingLite
 HOST,adjuggler.net,AdvertisingLite
 HOST,adjungle.com,AdvertisingLite
 HOST,adjunky.com,AdvertisingLite
@@ -7624,6 +7623,7 @@ HOST,liveuniversenetwork.com,AdvertisingLite
 HOST,livewebstats.dk,AdvertisingLite
 HOST,livexxx.me,AdvertisingLite
 HOST,liwhetsu.com,AdvertisingLite
+HOST,lixincxy.cn,AdvertisingLite
 HOST,lizads.com,AdvertisingLite
 HOST,lizardslaugh.com,AdvertisingLite
 HOST,lkme.cc,AdvertisingLite
@@ -7824,13 +7824,11 @@ HOST,m.1s8pj.cn,AdvertisingLite
 HOST,m.20mao.com,AdvertisingLite
 HOST,m.2l06k.cn,AdvertisingLite
 HOST,m.5vst8h.cn,AdvertisingLite
-HOST,m.6z1gf.cn,AdvertisingLite
 HOST,m.89kvh.cn,AdvertisingLite
 HOST,m.8of9hd.cn,AdvertisingLite
 HOST,m.8t5xo.cn,AdvertisingLite
 HOST,m.91heima.cn,AdvertisingLite
 HOST,m.967nd.cn,AdvertisingLite
-HOST,m.97tuk.cn,AdvertisingLite
 HOST,m.aangc.com,AdvertisingLite
 HOST,m.achuc.com,AdvertisingLite
 HOST,m.ailix.cn,AdvertisingLite
@@ -9172,6 +9170,7 @@ HOST,optify.net,AdvertisingLite
 HOST,optiker-michelmann.de,AdvertisingLite
 HOST,optimahub.com,AdvertisingLite
 HOST,optimatic.com,AdvertisingLite
+HOST,optimierung-der-website.de,AdvertisingLite
 HOST,optimization-methods.com,AdvertisingLite
 HOST,optimizely.appspot.com,AdvertisingLite
 HOST,optimizesocial.com,AdvertisingLite
@@ -11195,7 +11194,6 @@ HOST,shake.f.360.cn,AdvertisingLite
 HOST,shalleda.com,AdvertisingLite
 HOST,shalseey.com,AdvertisingLite
 HOST,shangjiabiao.com,AdvertisingLite
-HOST,shangmiss.wap.xsbiquge.com,AdvertisingLite
 HOST,share-server.com,AdvertisingLite
 HOST,share.gree.jp,AdvertisingLite
 HOST,share.itraffic.su,AdvertisingLite
@@ -12710,6 +12708,7 @@ HOST,trc.adsage.com,AdvertisingLite
 HOST,treasuredata.com,AdvertisingLite
 HOST,trebleperfect.com,AdvertisingLite
 HOST,tredirect.com,AdvertisingLite
+HOST,trekmedia.net,AdvertisingLite
 HOST,trendcounter.com,AdvertisingLite
 HOST,trendcounter.de,AdvertisingLite
 HOST,trendemon.com,AdvertisingLite
@@ -13954,6 +13953,7 @@ HOST,www.notmining.org,AdvertisingLite
 HOST,www.nuvon.com,AdvertisingLite
 HOST,www.obyz.de,AdvertisingLite
 HOST,www.offerent.com,AdvertisingLite
+HOST,www.officialrdr.com,AdvertisingLite
 HOST,www.ohiomm.com,AdvertisingLite
 HOST,www.oiluk.net,AdvertisingLite
 HOST,www.ostsee-schnack.de,AdvertisingLite
@@ -14159,6 +14159,7 @@ HOST,xpornstarsckc.ddns.name,AdvertisingLite
 HOST,xpx7heciz9.com,AdvertisingLite
 HOST,xpywzbxjwbxafv.com,AdvertisingLite
 HOST,xpyyrkwpcpwf.com,AdvertisingLite
+HOST,xqbervetkiq.com,AdvertisingLite
 HOST,xref.io,AdvertisingLite
 HOST,xs.mochiads.com,AdvertisingLite
 HOST,xsapp.cdn.bcebos.com,AdvertisingLite

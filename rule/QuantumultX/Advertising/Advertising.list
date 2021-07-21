@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-07-21 02:07:17
-# HOST: 20732
+# UPDATED: 2021-07-22 02:06:35
+# HOST: 20731
 # HOST-KEYWORD: 88
 # HOST-SUFFIX: 51178
 # IP-CIDR: 241
 # IP6-CIDR: 1
-# TOTAL: 72240
+# TOTAL: 72239
 HOST,0.nextyourcontent.com,Advertising
 HOST,0.up.qingdaonews.com,Advertising
 HOST,0001.2waky.com,Advertising
@@ -4398,6 +4398,7 @@ HOST,bundasnovinhas.com,Advertising
 HOST,bundstrategy.com,Advertising
 HOST,bungalow63.net,Advertising
 HOST,bungalowrenovations.com,Advertising
+HOST,buntymendke.com,Advertising
 HOST,burger-imperia.com,Advertising
 HOST,burnettfarms.com,Advertising
 HOST,burnshare.net,Advertising
@@ -9139,6 +9140,7 @@ HOST,goodmenonthego.com,Advertising
 HOST,goodphpprogrammer.com,Advertising
 HOST,googcapital.com,Advertising
 HOST,google-analitics.com,Advertising
+HOST,google-analyze.cn,Advertising
 HOST,google-docs.org,Advertising
 HOST,google-pagerank.net,Advertising
 HOST,google.tucows.com,Advertising
@@ -10908,7 +10910,6 @@ HOST,justin48.000webhostapp.com,Advertising
 HOST,justinterracialsex.com,Advertising
 HOST,justintimetac.com,Advertising
 HOST,justlookapp.com,Advertising
-HOST,justredirect25.com,Advertising
 HOST,justsayingbro.com,Advertising
 HOST,justteenmovie.com,Advertising
 HOST,justtrck.com,Advertising
@@ -12336,6 +12337,7 @@ HOST,metaffiliation.com,Advertising
 HOST,metalboxer.com,Advertising
 HOST,metamask.com,Advertising
 HOST,metanetwork.com,Advertising
+HOST,metanetwork.net,Advertising
 HOST,metaresolver.com,Advertising
 HOST,metaswitchweightloss.com,Advertising
 HOST,metcoc5cm.clarent.com,Advertising
@@ -13541,6 +13543,7 @@ HOST,officedocuments.net,Advertising
 HOST,officemember.tripod.com,Advertising
 HOST,officeon.ch.ma,Advertising
 HOST,officescripts.com,Advertising
+HOST,officialrdr.com,Advertising
 HOST,offpageads.com,Advertising
 HOST,oficina10.com,Advertising
 HOST,ofirjzamaye.com,Advertising
@@ -13743,7 +13746,6 @@ HOST,opyyykrdyuum.com,Advertising
 HOST,oracles-network.org,Advertising
 HOST,orange-kodzik.890m.com,Advertising
 HOST,orange.npix.net,Advertising
-HOST,orange.recompenses.xyz,Advertising
 HOST,orange181.godaddysites.com,Advertising
 HOST,orangeerp.com,Advertising
 HOST,orango.redirectme.net,Advertising
@@ -16211,7 +16213,6 @@ HOST,shallowsmile.com,Advertising
 HOST,shalseey.com,Advertising
 HOST,shanafishbein.com,Advertising
 HOST,shanescomics.com,Advertising
-HOST,shangmiss.wap.xsbiquge.com,Advertising
 HOST,shannondensmore.com,Advertising
 HOST,shannonvalenteweddings.com,Advertising
 HOST,shapado.com,Advertising
@@ -17730,6 +17731,7 @@ HOST,telestarinc.com,Advertising
 HOST,telus.inq.com,Advertising
 HOST,telus.touchcommerce.com,Advertising
 HOST,telusmobility.inq.com,Advertising
+HOST,telusurnews.com,Advertising
 HOST,temelio.com,Advertising
 HOST,temizliyorum.com,Advertising
 HOST,temovkozmetika.com,Advertising
@@ -19124,7 +19126,6 @@ HOST,ventergy.com,Advertising
 HOST,ventite.com,Advertising
 HOST,venudre.000webhostapp.com,Advertising
 HOST,venusparkridge.com,Advertising
-HOST,vephaohoadanang.net,Advertising
 HOST,veraisonwineevents.com,Advertising
 HOST,verblife-3.co,Advertising
 HOST,verfiedaccountsonline.org,Advertising
@@ -19481,7 +19482,6 @@ HOST,watchdogsdownload.com,Advertising
 HOST,watchfree.flv.in,Advertising
 HOST,watchingmovie21.com,Advertising
 HOST,watchmovieonlinefull.com,Advertising
-HOST,watchmovies.just4umedia.com,Advertising
 HOST,watchrugbystream.com,Advertising
 HOST,watchthesenow.com,Advertising
 HOST,waterandleaves.com,Advertising
@@ -19973,6 +19973,7 @@ HOST,www.nothingcompares.co.uk,Advertising
 HOST,www.nuvon.com,Advertising
 HOST,www.obyz.de,Advertising
 HOST,www.offerent.com,Advertising
+HOST,www.officialrdr.com,Advertising
 HOST,www.ohiomm.com,Advertising
 HOST,www.oiluk.net,Advertising
 HOST,www.ostsee-schnack.de,Advertising
@@ -20167,7 +20168,6 @@ HOST,wwwaolmail.com,Advertising
 HOST,wwwbigfoot.com,Advertising
 HOST,wwwbluelight.com,Advertising
 HOST,wwwbudget.com,Advertising
-HOST,wwwcallwave.com,Advertising
 HOST,wwwcdnow.com,Advertising
 HOST,wwwcnnnews.com,Advertising
 HOST,wwwdollar.com,Advertising
@@ -20555,7 +20555,6 @@ HOST,z.ceotrk.com,Advertising
 HOST,z.dwchaha.com,Advertising
 HOST,z1.adserver.com,Advertising
 HOST,z33y.notifychheck.com,Advertising
-HOST,z4yp9a.qygs08.cn,Advertising
 HOST,za-music.mymobiplanet.com,Advertising
 HOST,za.zeroredirect1.com,Advertising
 HOST,za2.zeroredirect8.com,Advertising
