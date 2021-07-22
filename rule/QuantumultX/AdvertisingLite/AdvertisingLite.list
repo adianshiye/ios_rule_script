@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-07-22 02:06:35
-# HOST: 14519
+# UPDATED: 2021-07-23 02:07:21
+# HOST: 14521
 # HOST-KEYWORD: 28
 # HOST-SUFFIX: 12709
 # IP-CIDR: 158
 # IP6-CIDR: 1
-# TOTAL: 27415
+# TOTAL: 27417
 HOST,0.up.qingdaonews.com,AdvertisingLite
 HOST,00-gov.cn,AdvertisingLite
 HOST,0024aadd.com,AdvertisingLite
@@ -3878,6 +3878,7 @@ HOST,cps.yaoqing.com,AdvertisingLite
 HOST,cptrack.de,AdvertisingLite
 HOST,cpu-baidu-com-block.cdn.bcebos.com,AdvertisingLite
 HOST,cpucdn.baidu.com,AdvertisingLite
+HOST,cpufan.club,AdvertisingLite
 HOST,cpuim.com,AdvertisingLite
 HOST,cpvads.com,AdvertisingLite
 HOST,cpvadvertise.com,AdvertisingLite
@@ -3948,7 +3949,6 @@ HOST,cryptobara.com,AdvertisingLite
 HOST,cryptomine.pro,AdvertisingLite
 HOST,cryptonoter.com,AdvertisingLite
 HOST,crystalmart.cn,AdvertisingLite
-HOST,cs-bailing.com.cn,AdvertisingLite
 HOST,cs-feige.iqiyi.com,AdvertisingLite
 HOST,cs-op.douyucdn.cn,AdvertisingLite
 HOST,cs.celebbusters.com,AdvertisingLite
@@ -7192,6 +7192,7 @@ HOST,jwvwak1a.com,AdvertisingLite
 HOST,jx.cn,AdvertisingLite
 HOST,jx.lyhanda.com,AdvertisingLite
 HOST,jxdown.com,AdvertisingLite
+HOST,jxqfu.cn,AdvertisingLite
 HOST,jy135.com,AdvertisingLite
 HOST,jynp9m209p.com,AdvertisingLite
 HOST,jyzmsy.com.cn,AdvertisingLite
@@ -7536,6 +7537,7 @@ HOST,likecontrol.com,AdvertisingLite
 HOST,likemore-go.imgsmail.ru,AdvertisingLite
 HOST,limbik.io,AdvertisingLite
 HOST,limkokwing-edu.cn,AdvertisingLite
+HOST,lindawei.cn,AdvertisingLite
 HOST,lindon-pool.win,AdvertisingLite
 HOST,linglong.supersuer.com,AdvertisingLite
 HOST,linicom.co.il,AdvertisingLite
@@ -9415,7 +9417,6 @@ HOST,pcr.da.netease.com,AdvertisingLite
 HOST,pcspeedup.com,AdvertisingLite
 HOST,pdbu.net,AdvertisingLite
 HOST,pdfcomplete.com,AdvertisingLite
-HOST,pdiinfo.com.cn,AdvertisingLite
 HOST,pdmp.jp,AdvertisingLite
 HOST,pdmtmribgaqctz.com,AdvertisingLite
 HOST,pdn-1.com,AdvertisingLite
@@ -14183,6 +14184,7 @@ HOST,xunyibaike.com,AdvertisingLite
 HOST,xvika.com,AdvertisingLite
 HOST,xvwebllndr.com,AdvertisingLite
 HOST,xxccdshj.com,AdvertisingLite
+HOST,xxdlg.cn,AdvertisingLite
 HOST,xxlink.net,AdvertisingLite
 HOST,xxltr.com,AdvertisingLite
 HOST,xxtu.be,AdvertisingLite

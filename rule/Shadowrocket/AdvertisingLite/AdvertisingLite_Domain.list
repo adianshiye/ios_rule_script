@@ -1,14 +1,14 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-07-22 02:06:37
+# UPDATED: 2021-07-23 02:07:23
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN: 14519
+# DOMAIN: 14521
 # DOMAIN-KEYWORD: 28
 # DOMAIN-SUFFIX: 12709
-# IP-CIDR: 158
+# IP-CIDR: 1
 # URL-REGEX: 295
-# TOTAL: 27709
+# TOTAL: 27554
 0.up.qingdaonews.com
 00-gov.cn
 0024aadd.com
@@ -3879,6 +3879,7 @@ cps.yaoqing.com
 cptrack.de
 cpu-baidu-com-block.cdn.bcebos.com
 cpucdn.baidu.com
+cpufan.club
 cpuim.com
 cpvads.com
 cpvadvertise.com
@@ -3949,7 +3950,6 @@ cryptobara.com
 cryptomine.pro
 cryptonoter.com
 crystalmart.cn
-cs-bailing.com.cn
 cs-feige.iqiyi.com
 cs-op.douyucdn.cn
 cs.celebbusters.com
@@ -7193,6 +7193,7 @@ jwvwak1a.com
 jx.cn
 jx.lyhanda.com
 jxdown.com
+jxqfu.cn
 jy135.com
 jynp9m209p.com
 jyzmsy.com.cn
@@ -7537,6 +7538,7 @@ likecontrol.com
 likemore-go.imgsmail.ru
 limbik.io
 limkokwing-edu.cn
+lindawei.cn
 lindon-pool.win
 linglong.supersuer.com
 linicom.co.il
@@ -9416,7 +9418,6 @@ pcr.da.netease.com
 pcspeedup.com
 pdbu.net
 pdfcomplete.com
-pdiinfo.com.cn
 pdmp.jp
 pdmtmribgaqctz.com
 pdn-1.com
@@ -14184,6 +14185,7 @@ xunyibaike.com
 xvika.com
 xvwebllndr.com
 xxccdshj.com
+xxdlg.cn
 xxlink.net
 xxltr.com
 xxtu.be

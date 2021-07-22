@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-07-22 02:06:36
-# DOMAIN: 20731
+# UPDATED: 2021-07-23 02:07:23
+# DOMAIN: 20723
 # DOMAIN-KEYWORD: 88
 # DOMAIN-SUFFIX: 51178
 # IP-CIDR: 241
 # IP-CIDR6: 1
-# TOTAL: 72239
+# TOTAL: 72231
 payload:
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0.up.qingdaonews.com
@@ -409,7 +409,6 @@ payload:
   - DOMAIN,79423.analytics.edgekey.net
   - DOMAIN,7979.nosubid.blueseek.com
   - DOMAIN,799f3607457e.com
-  - DOMAIN,7adpower.com
   - DOMAIN,7bluespots.com
   - DOMAIN,7consultinggroup.com
   - DOMAIN,7kzwj.kangshouhuanbao.com
@@ -417,7 +416,6 @@ payload:
   - DOMAIN,7mart2500.com
   - DOMAIN,7metasearch.com
   - DOMAIN,7minuteworkout.com
-  - DOMAIN,7softwaredreams.com
   - DOMAIN,803.stats.misstrends.com
   - DOMAIN,80579.net
   - DOMAIN,81182479.com
@@ -2388,7 +2386,6 @@ payload:
   - DOMAIN,adxmarket.com
   - DOMAIN,adxvalue.com
   - DOMAIN,adzerk.s3.amazonaws.com
-  - DOMAIN,adztracking.com
   - DOMAIN,ae0.0.br2.nyc2.appnexus.com
   - DOMAIN,aefonline.actonsoftware.com
   - DOMAIN,aegis.secure-orders.net
@@ -2937,7 +2934,6 @@ payload:
   - DOMAIN,anonymousstats.keefox.org
   - DOMAIN,anothersuccess.com
   - DOMAIN,anouslab.cmail20.com
-  - DOMAIN,anshuldalua.com
   - DOMAIN,answered-questions.com
   - DOMAIN,answerhub.com
   - DOMAIN,antalya.ru
@@ -3954,7 +3950,6 @@ payload:
   - DOMAIN,bestpromocenter.com
   - DOMAIN,bestsearch.com
   - DOMAIN,bestsearch.net
-  - DOMAIN,bestsecurepractice.com
   - DOMAIN,bestserials.com
   - DOMAIN,bestshockers.com
   - DOMAIN,bestsportjersey.com
@@ -4142,6 +4137,7 @@ payload:
   - DOMAIN,blog.digicert.com
   - DOMAIN,blog.fm120.com
   - DOMAIN,blog2019.top
+  - DOMAIN,blog2019.xyz
   - DOMAIN,blogad.com.tw
   - DOMAIN,blogadswap.com
   - DOMAIN,blogchanie.com
@@ -4371,7 +4367,6 @@ payload:
   - DOMAIN,btwosfunny.onthenetas.com
   - DOMAIN,bubbaparis.com
   - DOMAIN,bubblemixing.com
-  - DOMAIN,buchawucha.com
   - DOMAIN,buchislaw.com
   - DOMAIN,bucketbean.com
   - DOMAIN,budapest1873.net
@@ -5384,6 +5379,7 @@ payload:
   - DOMAIN,cig-arrete.com
   - DOMAIN,cigarette-online.com
   - DOMAIN,cihangcapital.com
+  - DOMAIN,ciiycode.com
   - DOMAIN,cimoghuk.net
   - DOMAIN,cinamuse.com
   - DOMAIN,cindykubica.com
@@ -6896,10 +6892,8 @@ payload:
   - DOMAIN,domniespodzianek.com
   - DOMAIN,domusline.org
   - DOMAIN,donefe.000webhostapp.com
-  - DOMAIN,dongphuccamranh.com
   - DOMAIN,dongsungmold.com
   - DOMAIN,donlucifergames.com
-  - DOMAIN,donnarogersimagery.com
   - DOMAIN,donnygilliland.com
   - DOMAIN,donnypinson.com
   - DOMAIN,donotwatch.org
@@ -9035,6 +9029,7 @@ payload:
   - DOMAIN,glowtrawler.com
   - DOMAIN,glsnqx.babala365.cn
   - DOMAIN,glucorade.com
+  - DOMAIN,glunhb.txzj88.cn
   - DOMAIN,glutenfreeadventurer.com
   - DOMAIN,glxccx.hztaida.cn
   - DOMAIN,gm.symcd.com
@@ -10120,7 +10115,6 @@ payload:
   - DOMAIN,iklantext.com
   - DOMAIN,iklanumum.com
   - DOMAIN,ikratorna.com
-  - DOMAIN,ilariacafiero.com
   - DOMAIN,ilbanner.com
   - DOMAIN,iliavilla.com
   - DOMAIN,ilividnewtab.com
@@ -10898,7 +10892,6 @@ payload:
   - DOMAIN,junbi-tracker.com
   - DOMAIN,jungtaesook.com
   - DOMAIN,junior.apk.net
-  - DOMAIN,junjiezyc.com
   - DOMAIN,junsunlighting.com
   - DOMAIN,jurassicpark.newzgames.com
   - DOMAIN,juridicoee.sslblindado.com
@@ -11230,7 +11223,6 @@ payload:
   - DOMAIN,lakotorra.com
   - DOMAIN,laleggia.com
   - DOMAIN,lamaisondelaforet.net
-  - DOMAIN,lamma.24ex.net
   - DOMAIN,lampband.com
   - DOMAIN,lampeduza.org
   - DOMAIN,lamtinchina.com
@@ -11241,6 +11233,7 @@ payload:
   - DOMAIN,landingpage.novaonx.com
   - DOMAIN,landingpages.sunnytoolz.com
   - DOMAIN,landoftracking.com
+  - DOMAIN,landongs.posdone.com
   - DOMAIN,landrine.com
   - DOMAIN,langbrosleathers.com
   - DOMAIN,langillesmetalrecycling.com
@@ -11504,7 +11497,6 @@ payload:
   - DOMAIN,likeportal.com
   - DOMAIN,likespike.com
   - DOMAIN,likeventy.com
-  - DOMAIN,likingyetsnarl.com
   - DOMAIN,likondok.com
   - DOMAIN,lilian.redirectme.net
   - DOMAIN,lilyjewellers.com
@@ -11533,7 +11525,6 @@ payload:
   - DOMAIN,linkcounter.pornosite.com
   - DOMAIN,linkdebrideur.xyz
   - DOMAIN,linkdninl.netii.net
-  - DOMAIN,linkedtotal.com
   - DOMAIN,linkfellow.com
   - DOMAIN,linkhrsolution.com
   - DOMAIN,linkjumps.com
@@ -13200,6 +13191,7 @@ payload:
   - DOMAIN,newlimitedoffer.com
   - DOMAIN,newlog.overwolf.com
   - DOMAIN,newmediaz.com
+  - DOMAIN,newminimall.com
   - DOMAIN,newnet.qsrch.com
   - DOMAIN,newopenx.detik.com
   - DOMAIN,newpassporn.com
@@ -13283,6 +13275,7 @@ payload:
   - DOMAIN,nintendo3ds4free.com
   - DOMAIN,nintendo3dshack.com
   - DOMAIN,nintendobro.com
+  - DOMAIN,niosdeledguide.com
   - DOMAIN,nipanipan.com
   - DOMAIN,nipponimportsltd.com
   - DOMAIN,nirvanalikit.com
@@ -13631,6 +13624,7 @@ payload:
   - DOMAIN,onesecondimpression.com
   - DOMAIN,onestatfree.com
   - DOMAIN,onetricks.com
+  - DOMAIN,onetw.posdone.com
   - DOMAIN,onfaucet.com
   - DOMAIN,onhitads.net
   - DOMAIN,onixcase.com
@@ -15299,6 +15293,7 @@ payload:
   - DOMAIN,reliablefiles.com
   - DOMAIN,reliablehacks.com
   - DOMAIN,reliableshredding.com
+  - DOMAIN,relish.com.cn
   - DOMAIN,reloadedhacks.com
   - DOMAIN,remain.chartboosts.com
   - DOMAIN,remekcikkek.com
@@ -15698,7 +15693,6 @@ payload:
   - DOMAIN,safelinking.net
   - DOMAIN,safemobilelink.com
   - DOMAIN,safepccleaner.com
-  - DOMAIN,saferedd.com
   - DOMAIN,saferedirrect.com
   - DOMAIN,safetysurfacing.net
   - DOMAIN,safra.moduloativo.com
@@ -18159,7 +18153,6 @@ payload:
   - DOMAIN,topstats.com
   - DOMAIN,topsurfer.com
   - DOMAIN,toptipstotravel.com
-  - DOMAIN,topwinnerglobal.com
   - DOMAIN,torereach.net
   - DOMAIN,toresaturday.net
   - DOMAIN,torrentgamer.net
@@ -19379,7 +19372,6 @@ payload:
   - DOMAIN,vs-api.wshareit.com
   - DOMAIN,vs.asianave.com
   - DOMAIN,vs.biz.weibo.com
-  - DOMAIN,vs.hangdeng.net
   - DOMAIN,vs.tucows.com
   - DOMAIN,vs3.com
   - DOMAIN,vseccz.weebly.com
